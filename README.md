@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **javaScript,html,css**
 
-- 💬 Ask me about **you can ask me about everything**
+- 💬 **you can ask me about everything**
 
 - 📫 How to reach me **uttasdemir16@gmial.com**
 
