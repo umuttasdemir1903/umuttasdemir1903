@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **uttasdemir16@gmial.com**
 
+- ⚡ Fun fact **I love learning new things, I'm learning Html, Css, JavaScript, Sass, React-Native right now..**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umut taşdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut taşdemir" height="30" width="40" /></a>
