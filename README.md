@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **uttasdemir16@gmial.com**
 
-- ⚡ Fun fact **I love learning new things, I'm learning Html, Css, JavaScript, Sass, React-Native right now..**
+- ⚡ Fun fact **I love learning new things, I'm learning JavaScript and React-Native right now..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
