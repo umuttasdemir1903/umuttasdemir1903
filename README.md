@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umuttasdemir1903&label=Profile%20views&color=0e75b6&style=flat" alt="umuttasdemir1903" /> </p>
 
-- 🔭 I’m currently working on **javaScript,html,css**
+- 🔭 I’m currently working on **javaScript,html,css,html5,css3,tailwindcss,bootstrap,firebase and react**
 
 - 💬 **you can ask me about everything**
 
 - 📫 How to reach me **uttasdemir16@gmial.com**
 
-- ⚡ Fun fact **I love learning new things, I'm learning JavaScript and React-Native right now..**
+- ⚡ Fun fact **I love learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
